@@ -3,7 +3,7 @@
 
 # Geometric Derivation of the Fine-Structure Constant and Planck-Scale Packing Bounds in the Clockfield
 
-![Image](./Pic.png)
+![Image](Pic.png)
 
 
 **Antti Luode** — PerceptionLab, Helsinki, Finland  
